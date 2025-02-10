@@ -1,2 +1,2 @@
 # Full-Stack
-Here I'm happy to upload my Full stack development small small projects
+Here I'm happy to upload my Full stack development minor and major projects
