@@ -1,2 +1,2 @@
 # Full-Stack
-Here I'm happy to upload my Full stack development minor and major projects
+This is a small Iot-dashboard application, where the system autmatically detect the temperature, humidity, motion of the environment and also visualize it 
